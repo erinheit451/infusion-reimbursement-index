@@ -1,0 +1,58 @@
+payer,grade,index_pl100,brand_index_pl100,biosimilar_index_pl100,variability,drugs,states,publishable_rates
+BlueCross BlueShield of Illinois,A,166.1,166.0,170.7,High,713,8,1036
+Anthem Colorado,A,132.5,131.6,154.8,Medium,890,8,2088
+BlueCross BlueShield of Wyoming,A,132.3,130.8,210.1,Low,911,7,4606
+BlueCross BlueShield of South Carolina,A,124.7,124.1,196.1,Low,869,6,5530
+HMSA (BCBS Hawaii),A,124.1,123.3,141.9,Low,874,5,4232
+Regence Idaho,A,118.4,118.5,118.2,Low,714,6,4514
+Premera Blue Cross,A,114.9,114.0,156.4,Low,897,9,9196
+BlueCross BlueShield of Nebraska,A,113.2,113.2,121.8,Low,932,7,7455
+BlueCross BlueShield of Texas,A,113.2,113.2,132.2,Low,781,28,6255
+BlueCross BlueShield of Oklahoma,A,112.4,112.1,167.0,High,630,3,1035
+Regence Utah,A,109.7,109.7,111.8,Low,710,5,3430
+Blue KC (Kansas City),A,109.6,109.6,109.9,Medium,758,2,1609
+BlueCross BlueShield of Arkansas,A,108.5,108.5,133.4,Low,917,21,20816
+Blue Shield of California,A,108.1,107.7,114.4,Medium,850,4,4742
+BlueCross BlueShield of Kansas,A,108.1,108.1,117.4,Low,847,6,4808
+BCBS North Dakota,A,107.3,107.3,107.0,High,909,3,3269
+Blue Cross of Idaho,A,107.1,106.9,113.7,Medium,928,6,5660
+BlueCross BlueShield of Louisiana,A,107.0,107.0,109.5,Low,900,7,7172
+Blue Cross NC,A,105.7,105.6,121.8,Medium,844,52,43198
+Kaiser Permanente,A,105.4,105.0,117.3,High,937,8,10949
+Regence BlueCross BlueShield,A,105.0,104.9,105.7,Medium,718,15,10393
+Excellus BCBS,B+,103.7,103.6,122.2,Low,915,1,1830
+Aetna,B,103.2,103.0,112.8,Medium,920,51,90116
+Anthem Massachusetts,B,102.9,102.9,103.8,Low,851,25,22000
+Anthem Wisconsin,B,102.8,102.6,109.3,Medium,884,14,5773
+Capital Blue Cross,B,102.7,102.7,103.6,Low,924,35,36912
+Regence Washington,C+,101.5,101.4,106.9,Low,699,5,3375
+BlueCross BlueShield of Vermont,C+,101.1,101.3,97.3,Low,158,1,158
+Anthem California,C+,100.6,100.5,113.6,Medium,927,5,5469
+Anthem New Hampshire,C,100.2,100.1,107.8,Low,852,14,7102
+Centene,C,100.1,100.1,101.4,Medium,333,41,4662
+Anthem Indiana,C,100.1,100.0,109.3,Medium,942,29,26862
+Anthem Missouri,C,100.0,100.0,102.6,Medium,871,16,9345
+Horizon BCBS of New Jersey,C,100.0,100.0,102.6,Medium,936,6,6353
+Wellmark BCBS (Iowa/South Dakota),C,100.0,100.0,113.6,Low,908,10,11759
+Cigna,C,100.0,100.0,107.8,Medium,945,52,75249
+Anthem Kentucky,C,100.0,100.0,100.0,Medium,929,17,9994
+UnitedHealthcare,C,100.0,100.0,104.3,High,945,52,68801
+Anthem New York,C,100.0,100.0,102.5,Low,927,15,15383
+Anthem Ohio,C,100.0,100.0,102.5,Medium,940,19,13339
+BlueCross BlueShield of Tennessee,C,100.0,100.0,108.5,Low,869,10,9541
+Harvard Pilgrim Health Care,C,100.0,100.0,100.3,Low,917,10,9170
+BlueCross BlueShield of Alabama,C,99.9,99.9,102.5,Low,742,6,4711
+Anthem Georgia,C,99.9,99.9,100.9,Medium,923,20,15147
+CareFirst BlueCross BlueShield,C,99.9,99.8,104.2,Low,880,19,17203
+Regence Oregon,C,99.9,99.8,102.5,Low,705,7,5101
+BlueCross BlueShield of Minnesota,C,99.8,99.8,100.3,High,925,9,6385
+Anthem Virginia,C,99.7,99.7,101.4,Low,922,22,19505
+Florida Blue,C,99.7,99.6,101.7,Low,839,5,4811
+Anthem Connecticut,C,99.7,99.6,104.3,Low,924,5,5288
+Anthem Nevada,C,99.7,99.6,101.7,Low,860,4,3440
+BlueCross BlueShield of Massachusetts,D,99.5,99.6,96.9,High,795,13,1555
+BlueCross BlueShield of Rhode Island,D,99.1,99.0,101.7,Low,778,3,2334
+Anthem Maine,D,98.4,98.3,102.7,Medium,824,13,4995
+BlueCross BlueShield of Mississippi,D,96.2,96.2,108.4,Low,773,4,1311
+BlueCross BlueShield of Michigan,D,95.3,95.2,101.1,Medium,644,17,5817
+BlueCross BlueShield of Arizona,D,83.0,83.0,84.2,Medium,883,19,17394

@@ -1,0 +1,38 @@
+payer,distinct_rates_per_market,modal_share,share_one_price,practice_p90p10,big_over_small
+Blue Shield of California,328.0,0.306,0.0,3.182,1.0
+BlueCross BlueShield of Arizona,9.0,0.306,0.0,1.6,0.9333
+Kaiser Permanente,14.0,0.382,0.006,1.252,1.0
+BCBS Federal Employee Program,41.0,0.686,0.0,1.15,1.0
+Centene,7.0,0.686,0.068,1.068,1.0
+UnitedHealthcare,47.0,0.7,0.0,1.19,1.0917
+Excellus BCBS,3.0,0.743,0.098,1.038,0.9639
+Aetna,24.0,0.885,0.008,1.007,1.0
+Elevance Health (Anthem),3.0,0.899,0.234,1.0,1.0
+BlueCross BlueShield of Tennessee,4.0,0.915,0.286,1.0,1.0
+Capital Blue Cross,3.0,0.924,0.225,1.0,1.0
+Highmark,3.0,0.925,0.282,1.0,1.0
+Regence BlueCross BlueShield,3.0,0.926,0.299,1.0,1.0
+BlueCross BlueShield of Massachusetts,3.0,0.935,0.3,1.0,1.0
+Blue Cross NC,3.0,0.942,0.298,1.0,1.0
+Blue KC (Kansas City),3.0,0.942,0.3,1.0,1.0
+Health Care Service Corporation (BCBS IL/TX/OK/NM/MT),3.0,0.943,0.3,1.0,1.0
+Carefirst,3.0,0.943,0.305,1.0,1.0
+BlueCross BlueShield of Nebraska,3.0,0.945,0.291,1.0,1.0
+BlueCross BlueShield of Rhode Island,3.0,0.945,0.293,1.0,1.0
+BlueCross BlueShield of South Carolina,3.0,0.95,0.301,1.0,1.0
+BlueCross BlueShield of Mississippi,3.0,0.952,0.308,1.0,1.0
+BlueCross BlueShield of Michigan,3.0,0.958,0.315,1.0,1.0
+Independence,3.0,0.959,0.317,1.0,1.0
+Florida Blue,3.0,0.96,0.319,1.0,1.0
+BlueCross BlueShield of Louisiana,3.0,0.96,0.32,1.0,1.0
+Horizon BCBS of New Jersey,3.0,0.96,0.32,1.0,1.0
+BlueCross BlueShield of Alabama,3.0,0.962,0.318,1.0,1.0
+BlueCross BlueShield of Kansas,3.0,0.962,0.312,1.0,1.0
+BlueCross BlueShield of Minnesota,3.0,0.962,0.315,1.0,1.0
+HMSA (BCBS Hawaii),3.0,0.962,0.318,1.0,1.0
+BlueCross BlueShield of Arkansas,3.0,0.964,0.306,1.0,1.0
+BlueCross BlueShield of Vermont,3.0,0.964,0.325,1.0,1.0
+Cigna,12.0,0.965,0.002,1.0,1.0
+Wellmark BCBS (Iowa/South Dakota),2.0,0.994,0.388,1.0,1.0
+Harvard Pilgrim Health Care,2.0,0.999,0.401,1.0,1.0
+Premera Blue Cross,2.0,1.0,0.489,1.0,1.0

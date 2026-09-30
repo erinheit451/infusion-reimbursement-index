@@ -1,0 +1,807 @@
+code,drug,specialty,median_index_pl100,low_index_pl100,high_index_pl100,insurers,partb_spend_usd_millions
+J9271,Keytruda (pembrolizumab),Hematology-Oncology,101.0,71.0,214.0,58,4716.0
+J9144,Darzalex faspro (daratumumab-hyaluronidase-fihj),Hematology-Oncology,98.6,64.0,240.0,58,2311.0
+J0897,Prolia (denosumab),Hematology-Oncology,98.0,56.0,202.0,59,1976.0
+J2777,Vabysmo (faricimab-svoa),Ophthalmology,101.6,73.0,356.0,57,1771.0
+J9299,Opdivo (nivolumab),Hematology-Oncology,98.2,71.0,226.0,58,1514.0
+Q4280,Xcell amnio matrix per sq cm,Dermatology,100.0,55.0,411.0,31,1364.0
+Q4316,"Amchoplast, per sq cm",Nurse Practitioner,100.0,60.0,356.0,35,1238.0
+J0178,Eylea (aflibercept),Ophthalmology,103.7,74.0,360.0,58,1230.0
+Q4341,"Simplimax, per sq cm",,100.0,64.0,423.0,34,982.0
+J0177,Eylea hd (aflibercept),Ophthalmology,103.8,65.0,699.0,51,835.0
+Q4250,Amnioamp-mp per sq cm,Nurse Practitioner,100.0,67.0,379.0,32,824.0
+J9173,Imfinzi (durvalumab),Hematology-Oncology,98.1,71.0,214.0,57,823.0
+Q4271,Complete ft per sq cm,Nurse Practitioner,100.9,75.0,544.0,35,751.0
+J0896,Reblozyl (luspatercept-aamt),Hematology-Oncology,98.3,71.0,344.0,57,727.0
+J0129,Orencia (abatacept),Rheumatology,97.6,70.0,243.0,58,718.0
+J3111,Evenity (romosozumab-aqqg),Rheumatology,95.7,68.0,208.0,58,651.0
+Q4265,Neostim tl per sq cm,Nurse Practitioner,100.6,55.0,268.0,35,603.0
+J3380,Entyvio (vedolizumab),Gastroenterology,98.8,65.0,250.0,59,574.0
+J1569,Gammagard liquid (immun glob g),Hematology-Oncology,99.5,63.0,340.0,58,570.0
+J9358,Enhertu (fam-trastuzumab deruxtecn-nxki),Hematology-Oncology,95.2,69.0,334.0,58,552.0
+J9177,Padcev (enfortumab vedotin-ejfv),Hematology-Oncology,100.2,72.0,351.0,58,538.0
+J1303,Ultomiris (ravulizumab-cwvz),Gastroenterology,98.8,71.0,252.0,56,535.0
+Q4205,Membrane graft or wrap sq cm,Nurse Practitioner,100.0,65.0,526.0,33,499.0
+J2350,Ocrevus (ocrelizumab),Neurology,97.8,70.0,308.0,58,475.0
+J1561,Gammaked (immune globul g),Neurology,101.5,72.0,340.0,57,472.0
+J9022,Tecentriq (atezolizumab),Hematology-Oncology,98.2,70.0,228.0,58,459.0
+J0225,Amvuttra (vutrisiran sodium),Pulmonary Disease,100.1,72.0,488.0,56,457.0
+Q4344,"Tri membrane wrap, per sq cm",,100.0,67.0,414.0,36,425.0
+J9228,Yervoy (ipilimumab),Hematology-Oncology,98.3,69.0,209.0,57,422.0
+Q4325,"Acapatch, per sq cm",,103.8,75.0,202.0,36,415.0
+J0585,Botox (onabotulinumtoxina),Neurology,100.1,72.0,369.0,59,395.0
+J9334,Vyvgart hytrulo (efgartigimod-hyaluronidas-qvfc),Anesthesiology,100.2,72.0,349.0,51,380.0
+J1459,Privigen (immun glob g),Neurology,99.1,71.0,241.0,57,360.0
+J3262,Actemra (tocilizumab),Rheumatology,103.7,73.0,244.0,58,348.0
+Q4239,Amnio-maxx or lite per sq cm,Podiatry,100.0,75.0,476.0,31,346.0
+Q4290,Membrane wrap hydr per sq cm,Internal Medicine,100.0,75.0,409.0,37,344.0
+J2353,"Octreotide acetate er (octreotide acetate,mi-spheres)",Hematology-Oncology,96.6,69.0,335.0,58,343.0
+J2781,Syfovre (pegcetacoplan),Ophthalmology,96.2,67.0,325.0,51,339.0
+J9332,Vyvgart (efgartigimod alfa-fcab),Nurse Practitioner,100.2,71.0,442.0,56,337.0
+Q4303,"Complete aa, per sq cm",Plastic and Reconstructive Surgery,100.0,70.0,440.0,36,336.0
+J9298,Opdualag (nivolumab-relatlimab-rmbw),Medical Oncology,98.2,71.0,344.0,56,334.0
+J3245,Ilumya (tildrakizumab-asmn),Nurse Practitioner,99.6,66.0,262.0,57,330.0
+Q4275,"Esano aca, per sq cm",Nurse Practitioner,100.0,70.0,377.0,30,330.0
+J9312,Rituxan (rituximab),Rheumatology,104.9,73.0,330.0,58,327.0
+J1306,Leqvio (inclisiran sodium),Nurse Practitioner,98.3,71.0,345.0,56,322.0
+J2802,Nplate (romiplostim),,95.6,69.0,262.0,55,316.0
+J2357,Xolair (omalizumab),Allergy/ Immunology,97.7,70.0,209.0,58,316.0
+Q5147,Pavblu (aflibercept-ayyh),,107.8,78.0,378.0,55,302.0
+Q4301,"Activate matrix, per sq cm",Emergency Medicine,100.0,75.0,471.0,33,300.0
+J9119,Libtayo (cemiplimab-rwlc),Hematology-Oncology,100.3,70.0,339.0,57,296.0
+J9047,Kyprolis (carfilzomib),Hematology-Oncology,94.5,57.0,323.0,57,291.0
+J0717,Cimzia (certolizumab pegol),Rheumatology,113.5,74.0,523.0,57,274.0
+J2782,Izervay (avacincaptad pegol sodium),Ophthalmology,100.2,72.0,349.0,56,262.0
+J1745,Infliximab,Rheumatology,103.0,57.0,709.0,59,260.0
+Q4294,"Amnio quad-core, per sq cm",Nurse Practitioner,100.0,60.0,448.0,38,251.0
+J1559,Hizentra (immun glob g),,97.7,66.0,205.0,57,247.0
+J2507,Krystexxa (pegloticase),Gastroenterology,97.3,53.0,614.0,57,241.0
+J1930,Lanreotide acetate,Hematology-Oncology,95.4,68.0,408.0,56,237.0
+J1602,Simponi aria (golimumab),Rheumatology,105.4,76.0,435.0,57,232.0
+Q4313,"Dermabind fm, per sq cm",Nurse Practitioner,100.0,73.0,455.0,37,217.0
+J9306,Perjeta (pertuzumab),Hematology-Oncology,99.0,61.0,235.0,58,216.0
+J9264,Abraxane (paclitaxel protein-bound),Hematology-Oncology,124.2,89.0,486.0,58,215.0
+J2356,Tezspire (tezepelumab-ekko),Nurse Practitioner,99.4,72.0,348.0,56,211.0
+J2182,Nucala (mepolizumab),Nurse Practitioner,98.8,71.0,237.0,58,210.0
+J9317,Trodelvy (sacituzumab govitecan-hziy),,98.2,71.0,344.0,58,202.0
+J1568,Octagam (immun globg),Hematology-Oncology,102.6,73.0,349.0,57,192.0
+Q4279,"Vendaje ac, per sq cm",,100.0,75.0,438.0,33,191.0
+J0517,Fasenra pen (benralizumab),Nurse Practitioner,99.2,60.0,253.0,57,188.0
+J9309,Polivy (polatuzumab vedotin-piiq),,95.6,69.0,334.0,57,188.0
+J9272,Jemperli (dostarlimab-gxly),Medical Oncology,98.5,71.0,247.0,57,183.0
+J7170,Hemlibra (emicizumab-kxwh),Pharmacy,97.3,64.0,228.0,55,181.0
+Q2056,Carvykti (ciltacabtagene autoleucel),,100.1,75.0,310.0,37,177.0
+Q4298,"Amnicore pro, per sq cm",,100.0,57.0,387.0,36,174.0
+J9380,Tecvayli (teclistamab-cqyv),Hematology-Oncology,97.9,70.0,343.0,51,172.0
+J9063,Elahere (mirvetuximab soravtansine-gynx),,98.9,71.0,346.0,51,168.0
+J7601,Ohtuvayre (ensifentrine),,100.0,72.0,341.0,53,166.0
+J3241,Tepezza (teprotumumab-trbw),Internal Medicine,97.2,70.0,341.0,57,164.0
+J9301,Gazyva (obinutuzumab),Hematology-Oncology,98.1,70.0,208.0,58,158.0
+Q4204,Xwrap 1 sq cm,Podiatry,100.0,58.0,401.0,36,158.0
+Q4300,"Acesso tl, per sq cm",,100.0,72.0,561.0,35,153.0
+Q4238,"Derm-maxx, per sq cm",Nurse Practitioner,100.0,75.0,487.0,32,144.0
+J9217,Eligard (leuprolide acetate),Urology,110.5,62.0,841.0,59,144.0
+J9042,Adcetris (brentuximab vedotin),,96.2,53.0,206.0,58,142.0
+J0174,Leqembi (lecanemab-irmb),Nurse Practitioner,99.9,72.0,347.0,54,139.0
+J1299,Soliris (eculizumab),,101.5,73.0,238.0,54,138.0
+J7677,Yupelri (revefenacin),Internal Medicine,101.0,71.0,343.0,55,137.0
+J9055,Erbitux (cetuximab),,99.4,66.0,222.0,58,134.0
+J7686,Tyvaso institutional start kit (treprostinil),,95.1,67.0,324.0,53,132.0
+J3247,Cosentyx (secukinumab),Rheumatology,99.1,71.0,347.0,50,127.0
+J9303,Vectibix (panitumumab),,97.7,55.0,199.0,57,117.0
+J2323,Tysabri (natalizumab),Neurology,100.4,72.0,241.0,58,115.0
+J9316,Phesgo (pertuzumab-trastuzumab-hy-zzxf),,104.3,69.0,313.0,58,114.0
+J0881,Aranesp (darbepoetin alfa in polysorbat),Hematology-Oncology,105.3,74.0,573.0,58,113.0
+J9061,Rybrevant (amivantamab-vmjw),,97.5,64.0,340.0,57,109.0
+Q4326,"Woundplus, per sq cm",Family Practice,101.0,71.0,206.0,37,109.0
+J1554,"Asceniv (immune globulin,gammaslra)",Pediatric Medicine,98.4,69.0,437.0,55,107.0
+Q5107,Mvasi (bevacizumab-awwb),Hematology-Oncology,97.2,70.0,446.0,58,107.0
+J9354,Kadcyla (ado-trastuzumab emtansine),,96.7,68.0,223.0,58,107.0
+J9308,Cyramza (ramucirumab),,98.8,71.0,216.0,57,105.0
+J0490,Benlysta (belimumab),Rheumatology,98.1,71.0,210.0,58,104.0
+J1437,Monoferric (ferric derisomaltose),Hematology-Oncology,108.3,78.0,380.0,56,103.0
+J2327,Skyrizi (risankizumab-rzaa),Nurse Practitioner,102.8,68.0,929.0,56,103.0
+J9035,Avastin (bevacizumab),Ophthalmology,101.2,71.0,345.0,59,102.0
+J0485,Nulojix (belatacept),Infectious Disease,100.1,66.0,252.0,57,102.0
+J0256,Aralast np (alpha-1-proteinase inhibitor),Family Practice,104.6,75.0,255.0,57,100.0
+J3055,Talvey (talquetamab-tgvs),,97.7,70.0,342.0,51,98.0
+Q5115,Truxima (rituximab-abbs),Hematology-Oncology,89.8,63.0,419.0,57,98.0
+J1555,Cuvitru (immun glob g),Allergy/ Immunology,96.9,68.0,272.0,57,98.0
+J7503,Envarsus xr (tacrolimus),,100.4,54.0,342.0,54,97.0
+Q5129,Vegzelma (bevacizumab-adcd),Hematology-Oncology,161.4,100.0,577.0,56,96.0
+Q4302,"Complete aca, per sq cm",,100.0,65.0,912.0,34,96.0
+Q2054,Breyanzi (lisocabtagene maraleucel),,97.0,83.0,301.0,36,96.0
+J9026,Imdelltra (tarlatamab-dlle),,97.2,70.0,700.0,55,94.0
+J1439,Injectafer (ferric carboxymaltose),Hematology-Oncology,98.9,71.0,347.0,58,91.0
+J9145,Darzalex (daratumumab),Hematology-Oncology,97.8,68.0,252.0,58,86.0
+Q4295,"Amnio tri-core, per sq cm",Nurse Practitioner,100.0,61.0,433.0,36,85.0
+Q4309,"Via matrix, per sq cm",Internal Medicine,102.3,60.0,239.0,38,85.0
+J3285,Remodulin (treprostinil sodium),,100.8,72.0,391.0,56,85.0
+Q4289,"Revoshield+ amnio, per sq cm",Nurse Practitioner,100.0,75.0,186.0,29,85.0
+Q5111,Udenyca autoinjector (pegfilgrastim-cbqv),Hematology-Oncology,108.6,56.0,381.0,58,84.0
+J9043,Jevtana (cabazitaxel),Hematology-Oncology,99.8,65.0,346.0,57,81.0
+Q5126,Alymsys (bevacizumab-maly),Hematology-Oncology,68.9,53.0,355.0,56,79.0
+J7214,"Altuviiio (fviii rec,fc-vwf-xten,bdd-ehtl)",,99.5,72.0,321.0,49,77.0
+J9029,Adstiladrin (nadofaragene firadenovec-vncg),,99.9,65.0,394.0,49,77.0
+J3032,Vyepti (eptinezumab-jjmr),Neurology,97.4,68.0,340.0,58,77.0
+J9223,Zepzelca (lurbinectedin),,98.2,70.0,342.0,58,77.0
+J7355,Idose tr (travoprost),Ambulatory Surgical Center,100.1,72.0,569.0,54,77.0
+Q5119,Ruxience (rituximab-pvvr),Hematology-Oncology,84.7,54.0,602.0,58,75.0
+J0175,Kisunla (donanemab-azbt),Neurology,100.1,72.0,351.0,48,74.0
+J9039,Blincyto (blinatumomab),,94.8,58.0,332.0,57,72.0
+Q4161,Bio-connekt per square cm,Podiatry,100.0,75.0,189.0,34,71.0
+J9274,Kimmtrak (tebentafusp-tebn),,97.6,70.0,341.0,56,71.0
+J0870,Rytelo (imetelstat sodium),,97.9,69.0,343.0,55,70.0
+Q2043,Provenge (sipuleucel-t),Urology,100.6,69.0,425.0,57,69.0
+J9205,Onivyde (irinotecan liposomal),Hematology-Oncology,102.0,62.0,351.0,57,68.0
+Q5108,Fulphila (pegfilgrastim-jmdb),Hematology-Oncology,147.7,100.0,665.0,58,68.0
+J1575,Hyqvia (igg),Allergy/ Immunology,102.5,71.0,220.0,57,65.0
+J1823,Uplizna (inebilizumab-cdon),,97.0,70.0,340.0,56,64.0
+J9204,Poteligeo (mogamulizumab-kpkc),,98.0,71.0,344.0,56,64.0
+J0491,Saphnelo (anifrolumab-fnia),Rheumatology,99.1,71.0,347.0,57,63.0
+Q5114,Ogivri (trastuzumab-dkst),Hematology-Oncology,118.0,85.0,448.0,57,63.0
+J1576,Panzyga (immun glob g-ifas),Neurology,103.5,72.0,350.0,50,62.0
+Q4180,"Revita, per sq cm",Dermatology,103.9,63.0,417.0,35,62.0
+Q4297,"Emerge matrix, per sq cm",Emergency Medicine,100.0,54.0,760.0,34,61.0
+J0775,Xiaflex (collagenase clostridium hist.),Hand Surgery,99.5,64.0,339.0,58,61.0
+J9227,Sarclisa (isatuximab-irfc),Hematology-Oncology,97.5,69.0,335.0,56,60.0
+J9176,Empliciti (elotuzumab),Hematology-Oncology,98.2,71.0,222.0,57,59.0
+J9286,Columvi (glofitamab-gxbm),,99.3,68.0,348.0,51,56.0
+J9321,Epkinly (epcoritamab-bysp),,98.2,68.0,343.0,51,56.0
+J1449,Rolvedon (eflapegrastim-xnst),Hematology-Oncology,64.5,54.0,214.0,55,55.0
+J7202,"Idelvion (factor ix recom,albumin fusion)",Pharmacy,96.6,70.0,226.0,54,55.0
+J0219,Nexviazyme (avalglucosidase alfa-ngpt),,96.8,70.0,339.0,55,55.0
+J9355,Herceptin (trastuzumab),Hematology-Oncology,107.8,75.0,371.0,58,54.0
+J7327,"Monovisc (hyaluronate sodium, stabilized)",Orthopedic Surgery,108.4,69.0,366.0,58,53.0
+J7201,"Alprolix (factor ix rec, fc fusion protn)",,97.0,54.0,227.0,55,52.0
+Q4299,"Amnicore pro+, per sq cm",Dermatology,100.0,56.0,468.0,37,52.0
+Q5123,Riabni (rituximab-arrx),Hematology-Oncology,112.8,81.0,554.0,56,51.0
+J0875,Dalvance (dalbavancin hcl),Infectious Disease,138.1,55.0,484.0,57,51.0
+J1323,Elrexfio (elranatamab-bcmm),Medical Oncology,97.9,71.0,343.0,50,50.0
+J3304,Zilretta (triamcinolone acetonide),Orthopedic Surgery,96.7,69.0,338.0,58,49.0
+J2403,Iheezo (chloroprocaine hcl),Ophthalmology,81.8,60.0,416.0,56,48.0
+J9023,Bavencio (avelumab),,97.2,70.0,213.0,57,48.0
+J0180,Fabrazyme (agalsidase beta),,99.0,71.0,206.0,56,48.0
+J9347,Imjudo (tremelimumab-actl),,97.5,68.0,341.0,51,47.0
+Q5118,Zirabev (bevacizumab-bvzr),Hematology-Oncology,99.8,68.0,484.0,57,46.0
+Q5127,Stimufend (pegfilgrastim-fpgk),Hematology-Oncology,108.3,70.0,461.0,55,44.0
+Q4259,Celera per sq cm,Nurse Practitioner,104.0,55.0,465.0,36,43.0
+J9333,Rystiggo (rozanolixizumab-noli),,99.2,71.0,347.0,51,42.0
+Q4322,"Caregraft, per sq cm",,100.0,75.0,542.0,36,42.0
+J1556,Bivigam (immun glob g),Neurology,98.0,61.0,660.0,55,42.0
+J0666,Exparel (bupivacaine liposome),,99.0,69.0,347.0,57,41.0
+Q5104,Renflexis (infliximab-abda),Rheumatology,104.3,75.0,423.0,58,40.0
+J9034,Bendeka (bendamustine hcl),Medical Oncology,106.3,74.0,372.0,58,40.0
+Q4164,"Helicoll, per square cm",General Surgery,100.0,70.0,362.0,33,39.0
+J9311,Rituxan hycela (rituximab),Hematology-Oncology,103.5,67.0,395.0,57,39.0
+J7326,"Gel-one (hyaluronate sod, cross-linked)",Orthopedic Surgery,99.2,69.0,452.0,57,39.0
+J7325,Synvisc-one (hylan g-f 20),Orthopedic Surgery,125.6,61.0,569.0,58,38.0
+J7192,"Advate (antihemophil.fviii,full length)",Pharmacy,100.6,63.0,325.0,56,38.0
+Q4193,Coll-e-derm 1 sq cm,Dermatology,100.0,79.0,260.0,32,37.0
+J7189,"Novoseven rt (coagulation factor viia,recomb)",,94.5,63.0,205.0,55,37.0
+J2778,Lucentis (ranibizumab),Ophthalmology,132.8,88.0,916.0,58,37.0
+J9028,Anktiva (nogapendekin alfa inbakic-pmln),,100.4,72.0,352.0,55,36.0
+J1566,Gammagard s-d (immun glob g),Hematology-Oncology,99.3,68.0,220.0,56,36.0
+J7340,Duopa (carbidopa),,99.7,62.0,349.0,54,35.0
+J7323,Euflexxa (hyaluronate sodium),Orthopedic Surgery,110.5,77.0,441.0,58,35.0
+Q4342,"Theramend, per sq cm",,100.0,75.0,453.0,28,35.0
+Q4304,"Grafix plus, per sq cm",General Surgery,100.8,58.0,457.0,38,34.0
+J2329,Briumvi (ublituximab-xiiy),Neurology,97.1,70.0,340.0,51,34.0
+J7312,Ozurdex (dexamethasone),Ophthalmology,100.4,72.0,686.0,57,34.0
+Q4282,Cygnus dual per sq cm,Dermatology,100.0,57.0,433.0,39,34.0
+J1786,Cerezyme (imiglucerase),,99.8,72.0,239.0,55,34.0
+Q4248,Dermacyte amn mem allo sq cm,Podiatry,108.5,75.0,865.0,36,34.0
+J9172,Docivyx (docetaxel),,109.3,77.0,377.0,50,34.0
+J7318,"Durolane (hyaluronate sodium, stabilized)",Orthopedic Surgery,107.9,75.0,513.0,58,33.0
+J0185,Cinvanti (aprepitant),Hematology-Oncology,107.5,63.0,377.0,57,33.0
+J1558,"Xembify (immune globulin,gammaklhw)",,100.8,71.0,231.0,56,33.0
+J9349,Monjuvi (tafasitamab-cxix),,98.8,71.0,346.0,57,33.0
+Q4269,Surgraft xt per sq cm,,100.0,58.0,319.0,32,33.0
+J7322,"Hymovis (hyaluronate,mod.,non-crosslink)",Orthopedic Surgery,100.0,70.0,346.0,57,31.0
+J0751,Descovy (emtricitabine),Pharmacy,99.9,72.0,350.0,50,31.0
+J1302,Enjaymo (sutimlimab-jome),,98.7,69.0,339.0,55,31.0
+J0885,Epogen (epoetin alfa),Hematology-Oncology,112.7,81.0,654.0,58,30.0
+Q4264,"Cocoon membrane, per sq cm",Family Practice,113.1,61.0,921.0,36,30.0
+J7308,Levulan (aminolevulinic acid hcl),Dermatology,100.2,71.0,351.0,58,30.0
+Q5128,Cimerli (ranibizumab-eqrn),Ophthalmology,100.4,58.0,502.0,54,30.0
+Q5106,Retacrit (epoetin alfa-epbx),Hematology-Oncology,98.5,68.0,348.0,58,29.0
+J2506,Neulasta onpro (pegfilgrastim),Hematology-Oncology,88.9,62.0,523.0,54,29.0
+J9304,Pemfexy (pemetrexed),Hematology-Oncology,499.5,94.0,926.0,56,29.0
+J1096,Dextenza (dexamethasone),Ambulatory Surgical Center,109.6,79.0,600.0,58,29.0
+J9281,Jelmyto (mitomycin),Urology,98.3,71.0,344.0,56,28.0
+Q5117,Kanjinti (trastuzumab-anns),Hematology-Oncology,87.1,53.0,493.0,57,27.0
+J7626,Budesonide,General Practice,100.7,70.0,902.0,55,27.0
+J7336,Qutenza (capsaicin),Podiatry,97.5,70.0,341.0,57,26.0
+J1817,Humalog kwikpen u-100 (insulin lispro),,104.5,75.0,606.0,56,26.0
+Q4332,"Axolotl dualgraft, per sq cm",Dermatology,100.0,69.0,399.0,38,26.0
+Q4350,Palisade dm matrix per sq cm,,100.0,75.0,597.0,35,25.0
+J3101,Tnkase (tenecteplase),,86.0,58.0,301.0,56,25.0
+J0588,Xeomin (incobotulinumtoxina),Neurology,102.2,66.0,348.0,57,25.0
+J0638,Ilaris (canakinumab),Rheumatology,95.0,64.0,220.0,56,25.0
+J7195,Benefix (factor ix human recombinant),Pharmacy,98.4,54.0,221.0,55,24.0
+Q4169,"Artacent wound, per sq cm",Nurse Practitioner,100.0,54.0,461.0,29,24.0
+J7187,Humate-p (antihemophilic factor),Pharmacy,97.1,61.0,208.0,55,24.0
+J3385,Vpriv (velaglucerase alfa),,98.4,70.0,281.0,56,24.0
+Q4191,Restorigin 1 sq cm,Nurse Practitioner,100.0,57.0,408.0,36,23.0
+J1305,Evkeeza (evinacumab-dgnb),,100.0,72.0,350.0,55,23.0
+Q5146,Hercessi (trastuzumab-strf),,116.7,63.0,566.0,54,23.0
+J9356,Herceptin hylecta (trastuzumab-hyaluronidase-oysk),,106.6,75.0,356.0,57,23.0
+Q4357,"Xwrap plus, per sq cm",,100.0,63.0,310.0,32,22.0
+J9350,Lunsumio (mosunetuzumab-axgb),,97.2,70.0,340.0,51,22.0
+Q5103,Inflectra (infliximab-dyyb),Rheumatology,96.8,55.0,664.0,58,21.0
+J9307,Folotyn (pralatrexate),,101.7,57.0,356.0,56,21.0
+J1952,Camcevi (leuprolide mesylate),Urology,135.6,90.0,475.0,57,21.0
+J1552,"Alyglo (immune globulin,gammastwk)",,101.9,73.0,357.0,55,21.0
+J1932,Lanreotide acetate,Hematology-Oncology,188.0,95.0,641.0,56,21.0
+J7356,Vyalev (foscarbidopa),,99.7,71.0,340.0,50,21.0
+Q4347,Rampart dl matrix per sq cm,,100.0,70.0,432.0,30,21.0
+J9289,Opdivo qvantig (nivolumab-hyaluronidase-nvhy),,98.8,71.0,653.0,54,20.0
+Q5130,Fylnetra (pegfilgrastim-pbbk),Hematology-Oncology,121.0,87.0,425.0,55,20.0
+J9319,Istodax (romidepsin),,100.9,72.0,353.0,56,20.0
+Q0138,Feraheme (ferumoxytol),Hematology-Oncology,97.3,59.0,811.0,57,20.0
+J1628,Tremfya one-press (guselkumab),,109.0,78.0,420.0,58,19.0
+J7212,"Sevenfact (coagulation viia,recomb-jncw)",,107.1,77.0,251.0,54,19.0
+J0791,Adakveo (crizanlizumab-tmca),,100.0,72.0,349.0,57,19.0
+J7320,Genvisc 850 (hyaluronate sodium),Orthopedic Surgery,125.0,66.0,736.0,56,19.0
+J9038,Niktimvo (axatilimab-csfr),,98.6,71.0,345.0,54,19.0
+J0584,Crysvita (burosumab-twza),,97.1,69.0,227.0,55,19.0
+J0257,Glassia (alpha-1-proteinase inhibitor),,101.9,73.0,248.0,56,19.0
+J9359,Zynlonta (loncastuximab tesirine-lpyl),,97.7,68.0,342.0,56,19.0
+J1454,Akynzeo (fosnetupitant),Hematology-Oncology,108.6,63.0,380.0,57,19.0
+J9179,Eribulin mesylate,,128.0,81.0,466.0,57,19.0
+J7639,Pulmozyme (dornase alfa),,97.1,55.0,331.0,55,18.0
+Q5116,Trazimera (trastuzumab-qyyp),Hematology-Oncology,77.2,57.0,844.0,54,18.0
+J7324,Orthovisc (hyaluronate sodium),Orthopedic Surgery,111.6,80.0,572.0,59,18.0
+Q4270,Complete sl per sq cm,,100.0,75.0,446.0,27,18.0
+Q4278,"Epieffect, per sq cm",Dermatology,100.0,57.0,333.0,45,18.0
+Q0224,Pemgarda (pemivibart),Pharmacy,100.0,68.0,350.0,46,18.0
+J7351,Durysta (bimatoprost),Ophthalmology,100.1,72.0,733.0,58,17.0
+J9229,Besponsa (inotuzumab ozogamicin),,98.0,68.0,590.0,57,17.0
+Q4353,Xceed tl matrix per sq cm,,100.0,69.0,437.0,35,17.0
+J1448,Cosela (trilaciclib dihydrochloride),Hematology-Oncology,100.5,71.0,348.0,57,16.0
+J9352,Yondelis (trabectedin),Hematology-Oncology,95.3,68.0,334.0,57,16.0
+J0223,Givlaari (givosiran sodium),,99.8,72.0,350.0,56,16.0
+J7321,Hyalgan (hyaluronate sodium),Orthopedic Surgery,105.9,75.0,417.0,58,16.0
+Q4256,"Mlg complet, per sq cm",Nurse Practitioner,100.0,53.0,740.0,33,16.0
+J9305,Alimta (pemetrexed disodium),Hematology-Oncology,63.4,53.0,759.0,53,16.0
+J3145,Aveed (testosterone undecanoate),Urology,96.3,55.0,337.0,57,16.0
+J0222,"Onpattro (patisiran sodium,lipid complex)",Pulmonary Disease,99.9,71.0,243.0,56,16.0
+Q4194,Novachor 1 sq cm,Dermatology,100.0,59.0,506.0,36,16.0
+Q4355,Abio xpl abio xpl hy p sq cm,,100.0,79.0,423.0,30,15.0
+Q4296,"Rebound matrix, per sq cm",Family Practice,100.0,67.0,477.0,35,15.0
+J7209,"Nuwiq (antihemoph.fviii,hek b-delete)",,96.6,67.0,238.0,55,15.0
+Q4221,Amniowrap2 per sq cm,Nurse Practitioner,100.0,65.0,462.0,34,15.0
+J7179,Vonvendi (von willebrand factor),,101.6,55.0,238.0,55,14.0
+J0741,Cabenuva (cabotegravir),,98.0,70.0,343.0,58,14.0
+J9395,Faslodex (fulvestrant),Hematology-Oncology,108.4,78.0,621.0,57,14.0
+J2468,Posfrea (palonosetron hcl),Hematology-Oncology,106.1,76.0,372.0,49,14.0
+Q4225,"Amnio or derma tl, per sq cm",Nurse Practitioner,100.0,75.0,254.0,33,13.0
+Q4186,Epifix 1 sq cm,Podiatry,100.0,58.0,461.0,58,13.0
+Q5135,Tyenne autoinjector (tocilizumab-aazg),Nurse Practitioner,105.3,74.0,362.0,50,13.0
+J7345,Ameluz (aminolevulinic acid hcl),Dermatology,96.9,54.0,339.0,58,13.0
+J2426,Invega sustenna (paliperidone palmitate),Psychiatry,97.9,58.0,343.0,57,13.0
+J9273,Tivdak (tisotumab vedotin-tftv),,100.0,72.0,350.0,57,13.0
+J7518,Mycophenolic acid (mycophenolate sodium),,98.5,55.0,923.0,51,12.0
+J3301,Kenalog-10 (triamcinolone acetonide),Orthopedic Surgery,87.3,55.0,448.0,59,12.0
+J3315,Trelstar (triptorelin pamoate),Urology,101.8,54.0,346.0,57,12.0
+J7329,Trivisc (hyaluronate sodium),Orthopedic Surgery,118.9,78.0,713.0,56,12.0
+Q2050,Doxil (doxorubicin hcl peg-liposomal),Gynecological Oncology,90.0,60.0,786.0,57,12.0
+J2997,Activase (alteplase),Ambulatory Surgical Center,95.8,66.0,333.0,58,12.0
+J0475,Baclofen,Physical Medicine and Rehabilitation,97.5,57.0,436.0,56,12.0
+J7606,Formoterol fumarate,Allergy/ Immunology,142.2,53.0,753.0,55,12.0
+J0586,Dysport (abobotulinumtoxina),Physical Medicine and Rehabilitation,99.5,71.0,232.0,57,12.0
+J7211,"Kovaltry (antihemophil.fviii,full length)",Pharmacy,98.4,63.0,223.0,55,12.0
+J1551,Cutaquig (immun glob g-hipp),,105.6,76.0,370.0,56,12.0
+J1557,Gammaplex (immun glob g),Nurse Practitioner,97.6,59.0,250.0,56,11.0
+J1750,Infed (iron dextran complex),Hematology-Oncology,95.4,67.0,657.0,58,11.0
+J0702,"Betamethasone sod phos-acetate (betamethasone acetate,sod phos)",Orthopedic Surgery,97.8,70.0,330.0,58,11.0
+Q4229,Cogenex amnio memb per sq cm,Dermatology,100.0,54.0,422.0,35,11.0
+J1010,Depo-medrol (methylprednisolone acetate),Orthopedic Surgery,102.6,68.0,855.0,57,11.0
+J9248,Hepzato (melphalan hcl),,99.2,71.0,348.0,49,11.0
+J9155,Firmagon (degarelix acetate),Urology,100.2,71.0,562.0,58,11.0
+Q5122,Nyvepria (pegfilgrastim-apgf),Hematology-Oncology,97.4,70.0,497.0,55,11.0
+Q9967,Iodixanol,Diagnostic Radiology,96.8,58.0,703.0,60,11.0
+J7205,"Eloctate (antihemoph.fviii rec,fc fusion)",Pharmacy,95.8,69.0,224.0,55,11.0
+J3240,Thyrogen (thyrotropin alfa),Endocrinology,98.5,66.0,345.0,58,10.0
+Q4328,"Most, per sq cm",,100.0,75.0,433.0,35,10.0
+J9030,Bcg (bcg live),Urology,100.4,59.0,340.0,58,10.0
+J7190,"Hemofil m (antihemophilic factor, human)",,89.1,59.0,230.0,54,10.0
+J2860,Sylvant (siltuximab),,98.5,57.0,340.0,56,10.0
+J3300,Triesence (triamcinolone acetonide),Interventional Pain Management,127.6,58.0,653.0,56,10.0
+J1950,Lupron depot-ped (leuprolide acetate),Urology,95.9,56.0,336.0,59,10.0
+J7208,"Jivi (fviii rec,b-dom delet peg-aucl)",,96.2,69.0,225.0,54,10.0
+J0739,Apretude (cabotegravir),,98.0,71.0,343.0,57,10.0
+J9024,Tecentriq hybreza (atezolizumab-hyaluronidas-tqjs),,98.6,71.0,345.0,53,10.0
+J7200,Rixubis (factor ix human recombinant),,101.3,58.0,237.0,55,10.0
+J1434,Focinvez (fosaprepitant dimeglumine),Hematology-Oncology,107.1,77.0,375.0,50,9.0
+J9056,Vivimusta (bendamustine hcl),,106.9,77.0,375.0,51,9.0
+J7332,Triluron (hyaluronate sodium),Orthopedic Surgery,99.1,70.0,492.0,55,9.0
+J7507,Prograf (tacrolimus),,100.0,65.0,580.0,53,9.0
+J9036,Belrapzo (bendamustine hcl),Hematology-Oncology,120.2,83.0,418.0,56,9.0
+J7527,Everolimus,,104.9,73.0,794.0,52,9.0
+J9032,Beleodaq (belinostat),,97.5,61.0,342.0,56,9.0
+J1326,Vyloy (zolbetuximab-clzb),,99.3,71.0,542.0,54,9.0
+Q2041,Yescarta (axicabtagene ciloleucel),,94.6,71.0,294.0,36,8.0
+J0221,Lumizyme (alglucosidase alfa),,98.3,71.0,214.0,55,8.0
+Q4274,"Esano ac, per sq cm",Dermatology,100.0,67.0,336.0,31,8.0
+J1640,Panhematin (hemin),,98.6,60.0,345.0,56,8.0
+J9202,Zoladex (goserelin acetate),Urology,103.3,64.0,566.0,57,8.0
+J2783,Elitek (rasburicase),Hematology-Oncology,98.9,62.0,578.0,57,8.0
+Q5121,Avsola (infliximab-axxq),Rheumatology,91.0,62.0,409.0,57,8.0
+J0179,Beovu (brolucizumab-dbll),Ophthalmology,98.2,71.0,475.0,56,8.0
+J9331,Fyarro (sirolimus protein-bound),,95.7,69.0,335.0,56,8.0
+J9345,Zynyz (retifanlimab-dlwr),,98.5,71.0,345.0,51,7.0
+J2351,Ocrevus zunovo (ocrelizumab-hyaluronidase-ocsq),,97.9,70.0,343.0,54,7.0
+J7313,Iluvien (fluocinolone acetonide),Ophthalmology,98.3,71.0,241.0,57,7.0
+J7314,Yutiq (fluocinolone acetonide),Ophthalmology,100.0,72.0,350.0,56,7.0
+J7207,"Adynovate (antihemo.fviii,full length peg)",,101.9,73.0,238.0,55,7.0
+J1304,Qalsody (tofersen),,97.1,61.0,340.0,50,7.0
+J7620,Ipratropium-albuterol (ipratropium),Nurse Practitioner,99.5,70.0,945.0,55,7.0
+J7682,Bethkis (tobramycin),,101.3,59.0,750.0,54,7.0
+Q4276,"Orion, per sq cm",Family Practice,103.8,59.0,736.0,37,7.0
+Q5113,Herzuma (trastuzumab-pkrb),,102.0,60.0,435.0,55,7.0
+J9073,Cyclophosphamide,Hematology-Oncology,140.6,94.0,884.0,52,7.0
+J7517,Cellcept (mycophenolate mofetil),,114.5,80.0,939.0,51,6.0
+J2785,Lexiscan (regadenoson),Cardiology,100.0,63.0,327.0,56,6.0
+J2406,Kimyrsa (oritavancin diphosphate),Infectious Disease,91.5,65.0,318.0,56,6.0
+Q4266,Neostim per sq cm,Nurse Practitioner,107.0,60.0,673.0,37,6.0
+Q4196,Puraply am 1 sq cm,Podiatry,103.2,57.0,618.0,56,6.0
+J1442,Neupogen (filgrastim),Hematology-Oncology,101.4,72.0,348.0,57,6.0
+J1325,Epoprostenol sodium,,92.5,67.0,264.0,56,6.0
+J9324,Pemrydi rtu (pemetrexed disodium),,107.9,78.0,378.0,49,6.0
+Q5112,Ontruzant (trastuzumab-dttb),Medical Oncology,129.9,72.0,660.0,56,6.0
+J1203,Pombiliti (cipaglucosidase alfa-atga),,95.9,68.0,332.0,50,6.0
+Q2055,Abecma (idecabtagene vicleucel),,98.6,83.0,305.0,36,6.0
+Q4310,"Procenta, per 100 mg",General Practice,108.5,64.0,671.0,43,6.0
+J7605,Arformoterol tartrate,Pulmonary Disease,97.8,70.0,922.0,54,6.0
+J2786,Cinqair (reslizumab),,98.3,68.0,222.0,56,6.0
+J2267,Omvoh pen (mirikizumab-mrkz),,128.9,58.0,450.0,50,6.0
+Q5101,Zarxio (filgrastim-sndz),Hematology-Oncology,99.2,57.0,850.0,57,6.0
+J3358,Stelara (ustekinumab),Rheumatology,110.0,79.0,277.0,58,5.0
+J9269,Elzonris (tagraxofusp-erzs),,99.9,72.0,350.0,56,5.0
+J9072,Cyclophosphamide,,102.0,72.0,353.0,50,5.0
+J9292,Axtle (pemetrexed dipotassium),,111.3,73.0,386.0,54,5.0
+J9075,Cyclophosphamide,Hematology-Oncology,108.7,68.0,870.0,50,5.0
+J3263,Loqtorzi (toripalimab-tpzi),,98.3,71.0,345.0,50,5.0
+J7328,Gelsyn-3 (hyaluronate sodium),Orthopedic Surgery,116.4,82.0,685.0,58,5.0
+J9353,Margenza (margetuximab-cmkb),,95.2,69.0,334.0,55,5.0
+J0587,Myobloc (rimabotulinumtoxinb),Neurology,100.0,64.0,246.0,56,5.0
+Q5125,Releuko (filgrastim-ayow),Hematology-Oncology,109.3,80.0,772.0,56,5.0
+J7175,Coagadex (coagulation factor x),,100.0,72.0,233.0,53,5.0
+J7613,Albuterol sulfate,Pulmonary Disease,111.1,95.0,889.0,55,5.0
+Q4340,"Simpligraft, per sq cm",,100.0,56.0,187.0,34,5.0
+Q4263,"Surgraft tl, per sq cm",Physician Assistant,100.0,56.0,418.0,33,5.0
+J0401,Abilify maintena (aripiprazole),Nurse Practitioner,97.6,58.0,342.0,58,4.0
+J9210,Gamifant (emapalumab-lzsg),,97.8,70.0,343.0,55,4.0
+J9153,Vyxeos (daunorubicin),,95.7,69.0,334.0,56,4.0
+J1440,"Rebyota (fecal microbiota, live-jslm)",Infectious Disease,98.5,71.0,345.0,51,4.0
+Q4197,Puraply xt 1 sq cm,Podiatry,132.1,75.0,424.0,52,4.0
+J0640,Leucovorin calcium,Hematology-Oncology,131.0,74.0,741.0,58,4.0
+J9041,Bortezomib,Hematology-Oncology,131.6,66.0,448.0,58,4.0
+Q5124,Byooviz (ranibizumab-nuna),Ophthalmology,91.9,58.0,692.0,17,4.0
+J7198,Feiba (anti-inhibitor coagulant comp.),,99.7,56.0,215.0,54,4.0
+J7185,"Xyntha solofuse (antihemoph.fviii,b-domain del)",,116.0,73.0,247.0,55,4.0
+J7210,"Afstyla (antihem.fviii,sin-chn,b-dm tru)",,97.6,62.0,275.0,54,4.0
+J2779,Susvimo (ranibizumab),Ophthalmology,101.9,73.0,394.0,55,4.0
+J7515,"Cyclosporine modified (cyclosporine, modified)",,105.1,60.0,543.0,51,4.0
+Q4249,"Amniply, per sq cm",Dermatology,100.0,53.0,429.0,31,4.0
+Q5110,Nivestym (filgrastim-aafi),Hematology-Oncology,87.0,62.0,932.0,58,4.0
+J7171,"Adzynma (adamts13, recombinant-krhn)",,98.2,71.0,343.0,49,4.0
+J0248,Veklury (remdesivir),Internal Medicine,91.9,66.0,322.0,56,4.0
+J2508,Elfabrio (pegunigalsidase alfa-iwxj),,100.0,72.0,350.0,50,4.0
+Q4281,Barrera slor dl per sq cm,Nurse Practitioner,107.0,55.0,520.0,37,3.0
+Q4133,Grafix stravix prime pl sqcm,Podiatry,100.0,56.0,503.0,55,3.0
+J7203,"Rebinyn (factor ix human rec,pegylated)",,97.3,64.0,235.0,54,3.0
+Q4199,"Cygnus matrix, per sq cm",General Surgery,108.2,70.0,627.0,49,3.0
+J7181,"Tretten (factor xiii a-subunit,recomb)",,97.1,70.0,227.0,53,3.0
+J3299,Xipere (triamcinolone acetonide),Ophthalmology,100.2,72.0,505.0,56,3.0
+J2919,Methylprednisolone sodium succ (methylprednisolone sod succ),Rheumatology,116.1,54.0,498.0,49,3.0
+J0121,Nuzyra (omadacycline tosylate),Infectious Disease,98.9,71.0,346.0,55,3.0
+J9025,Azacitidine,Hematology-Oncology,114.7,70.0,534.0,56,3.0
+J7204,"Esperoct (fviii rec,b-dom trunc peg-exei)",,97.6,70.0,250.0,54,3.0
+J1743,Elaprase (idursulfase),,97.9,70.0,215.0,55,3.0
+J3060,Elelyso (taliglucerase alfa),,96.0,69.0,246.0,55,3.0
+Q4159,Affinity1 square cm,Podiatry,100.0,53.0,781.0,56,3.0
+J3489,Reclast (zoledronic acid),Hematology-Oncology,156.8,95.0,919.0,58,3.0
+J2278,Prialt (ziconotide acetate),Pharmacy,97.9,64.0,343.0,55,3.0
+J8522,Capecitabine,,100.0,75.0,763.0,16,3.0
+J2427,Invega hafyera (paliperidone palmitate),,97.9,71.0,343.0,51,3.0
+J0224,Oxlumo (lumasiran sodium),,97.3,70.0,341.0,55,3.0
+J1610,Glucagen (glucagon),Diagnostic Radiology,140.5,65.0,492.0,57,3.0
+J1212,Rimso-50 (dimethyl sulfoxide),Urology,100.0,72.0,351.0,58,3.0
+J7331,Sodium hyaluronate (hyaluronate sodium),Orthopedic Surgery,100.2,72.0,897.0,55,3.0
+J1747,Spevigo (spesolimab-sbzo),,100.0,72.0,350.0,56,3.0
+J0802,Cortrophin (corticotropin),Internal Medicine,97.2,70.0,403.0,49,3.0
+J9329,Tevimbra (tislelizumab-jsgr),,100.3,72.0,948.0,50,3.0
+J1611,Glucagon emergency kit (glucagon hcl),Diagnostic Radiology,110.8,69.0,388.0,56,3.0
+J7183,Wilate (antihemophilic factor),,99.5,72.0,233.0,54,3.0
+J1627,Sustol (granisetron),Hematology-Oncology,133.7,68.0,486.0,57,3.0
+Q9957,Definity rt (perflutren lipid microspheres),Cardiology,98.4,71.0,483.0,58,3.0
+Q4158,"Kerecis omega3, per sq cm",Podiatry,132.4,59.0,582.0,54,2.0
+J7213,"Ixinity (factor ix human recomb,thr 148)",,106.8,77.0,374.0,49,2.0
+J0217,Lamzede (velmanase alfa-tycv),,97.1,70.0,340.0,49,2.0
+J7520,Rapamune (sirolimus),,130.4,62.0,656.0,53,2.0
+Q4343,Dermacyte ac matrx per sq cm,,100.0,54.0,426.0,34,2.0
+J7182,"Novoeight (antihemoph.fviii,b-dom truncat)",,107.4,69.0,252.0,55,2.0
+J2562,Mozobil (plerixafor),Medical Oncology,108.8,63.0,597.0,55,2.0
+J0349,Rezzayo (rezafungin acetate),,98.4,71.0,345.0,51,2.0
+Q4283,"Biovance tri or 3l, sq cm",Nurse Practitioner,105.5,60.0,454.0,35,2.0
+Q5133,Tofidence (tocilizumab-bavi),,111.5,74.0,391.0,50,2.0
+J0561,Bicillin l-a (penicillin g benzathine),Internal Medicine,98.1,54.0,397.0,57,2.0
+Q4187,Epicord 1 sq cm,Dermatology,100.0,54.0,284.0,51,2.0
+Q4262,"Dual layer impax, per sq cm",Nurse Practitioner,100.0,69.0,446.0,51,2.0
+J0894,Dacogen (decitabine),Hematology-Oncology,90.2,56.0,867.0,55,2.0
+J1813,Lyumjev (insulin lispro-aabc),,314.5,87.0,629.0,49,2.0
+J9190,Fluorouracil,Hematology-Oncology,101.8,59.0,543.0,57,2.0
+J9276,Ziihera (zanidatamab-hrii),,97.4,70.0,716.0,53,2.0
+J2260,Milrinone in 5% dextrose (milrinone lactate),,123.0,57.0,455.0,56,2.0
+J9207,Ixempra (ixabepilone),,100.2,70.0,351.0,57,2.0
+J7502,"Cyclosporine modified (cyclosporine, modified)",,116.1,64.0,396.0,51,2.0
+J2407,Orbactiv (oritavancin diphosphate),Infectious Disease,96.1,69.0,336.0,57,2.0
+J7180,Corifact (factor xiii),,96.0,62.0,224.0,54,2.0
+Q4339,"Artacent vericlen, per sq cm",,100.0,54.0,337.0,32,2.0
+J2315,Vivitrol (naltrexone microspheres),Family Practice,93.8,66.0,328.0,59,2.0
+J0480,Simulect (basiliximab),Nurse Practitioner,98.1,64.0,342.0,56,2.0
+J8700,Temodar (temozolomide),,127.1,75.0,748.0,52,2.0
+J9203,Mylotarg (gemtuzumab ozogamicin),,97.1,70.0,340.0,56,2.0
+J8705,Hycamtin (topotecan hcl),,99.8,63.0,705.0,52,2.0
+J9074,Cyclophosphamide,,111.7,81.0,391.0,50,2.0
+J1955,Carnitor (levocarnitine),Nurse Practitioner,102.9,74.0,351.0,56,2.0
+Q9965,Omnipaque (iohexol),Physical Medicine and Rehabilitation,138.7,71.0,673.0,59,2.0
+J1756,Venofer (iron sucrose complex),Hematology-Oncology,105.7,66.0,590.0,60,2.0
+J0850,Cytogam (cytomegalovirus immune globuln),,97.3,66.0,341.0,55,2.0
+Q4331,"Axolotl graft, per sq cm",General Practice,100.0,60.0,186.0,37,2.0
+J7500,Azasan (azathioprine),,132.4,59.0,897.0,36,2.0
+J1885,Ketorolac tromethamine,Family Practice,118.9,84.0,703.0,59,2.0
+J1447,Granix (tbo-filgrastim),Hematology-Oncology,105.9,76.0,597.0,56,2.0
+J2502,Signifor lar (pasireotide pamoate),,96.7,67.0,327.0,52,2.0
+J7508,Astagraf xl (tacrolimus),,98.2,70.0,334.0,53,2.0
+Q4323,"Alloply, per sq cm",,100.0,57.0,218.0,34,2.0
+J9200,Floxuridine,,96.8,70.0,339.0,53,2.0
+J9266,Oncaspar (pegaspargase),,95.8,61.0,219.0,55,2.0
+J7608,Acetylcysteine,Internal Medicine,116.3,67.0,396.0,55,2.0
+J7193,Alphanine sd (factor ix),,97.6,67.0,220.0,55,2.0
+J9021,Rylaze (asparaginase erwinia-rywn),,95.9,69.0,335.0,56,1.0
+J7186,Alphanate (antihemophilic factor),,97.7,65.0,226.0,55,1.0
+J0202,Lemtrada (alemtuzumab),Neurology,96.2,69.0,294.0,56,1.0
+J2820,Leukine (sargramostim),Hematology-Oncology,99.1,64.0,572.0,56,1.0
+J1100,Dexamethasone sodium phosphate (dexamethasone sodium phosp),Hematology-Oncology,129.4,82.0,718.0,56,1.0
+J9033,Bendamustine hcl,Hematology-Oncology,72.6,55.0,885.0,57,1.0
+J0289,Ambisome (amphotericin b liposome),,109.7,72.0,390.0,57,1.0
+J2469,Aloxi (palonosetron hcl),Hematology-Oncology,80.2,57.0,791.0,58,1.0
+J2277,Aphexda (motixafortide acetate),,100.0,72.0,350.0,50,1.0
+Q9992,Sublocade (buprenorphine),,96.6,58.0,339.0,58,1.0
+J9280,Mitomycin,Urology,82.7,60.0,679.0,57,1.0
+J0597,Berinert (c1 esterase inhibitor),,95.9,59.0,207.0,56,1.0
+J0878,Cubicin rf (daptomycin),Infectious Disease,241.4,207.0,862.0,7,1.0
+J0589,Daxxify (daxibotulinumtoxina-lanm),Neurology,101.4,73.0,355.0,51,1.0
+Q4173,Palingen or palingen xplus,Nurse Practitioner,100.0,55.0,489.0,38,1.0
+J9357,Valrubicin,,106.1,75.0,474.0,55,1.0
+Q0249,Actemra (tocilizumab),,100.0,72.0,350.0,49,1.0
+J9267,Paclitaxel,Hematology-Oncology,104.9,63.0,576.0,58,1.0
+J1931,Aldurazyme (laronidase),,96.3,69.0,233.0,55,1.0
+J9294,Pemetrexed disodium,,150.5,95.0,806.0,55,1.0
+J1961,Sunlenca (lenacapavir sodium),,97.2,70.0,341.0,51,1.0
+J8560,Etoposide,,98.6,71.0,345.0,53,1.0
+J9171,Docetaxel,Hematology-Oncology,142.5,94.0,809.0,57,1.0
+J0642,Khapzory (levoleucovorin),Hematology-Oncology,108.3,77.0,369.0,54,1.0
+Q4227,Amniocore per sq cm,Podiatry,100.0,73.0,186.0,31,1.0
+J3415,Pyridoxine hcl,Nurse Practitioner,120.2,60.0,410.0,53,1.0
+J9201,Gemcitabine hcl,Hematology-Oncology,124.5,77.0,705.0,57,1.0
+J2274,Duramorph (morphine sulfate),Anesthesiology,71.4,54.0,268.0,54,1.0
+J9263,Oxaliplatin,Hematology-Oncology,145.5,98.0,836.0,43,1.0
+J1301,Edaravone,,270.3,100.0,650.0,55,1.0
+Q4137,Amnioexcel biodexcel 1sq cm,Podiatry,100.5,75.0,686.0,52,1.0
+J9185,Fludarabine phosphate,Hematology-Oncology,105.5,55.0,440.0,32,1.0
+Q9966,Iodixanol,Physical Medicine and Rehabilitation,96.6,60.0,920.0,58,1.0
+J9382,Bizengri (zenocutuzumab-zbco),,99.1,71.0,543.0,53,1.0
+Q4121,Theraskin,Dermatology,100.0,64.0,466.0,50,1.0
+J3396,Visudyne (verteporfin),Ophthalmology,101.7,73.0,356.0,57,1.0
+J1250,Dobutamine hcl-d5w (dobutamine hcl in dextrose 5 %),Cardiology,104.3,73.0,355.0,54,1.0
+J9045,Carboplatin,Hematology-Oncology,96.4,63.0,793.0,58,1.0
+J1201,Quzyttir (cetirizine hcl),Hematology-Oncology,99.6,72.0,704.0,57,1.0
+J9381,Tzield (teplizumab-mzwv),,97.9,70.0,412.0,51,1.0
+J0600,Calcium disodium versenate (edetate calcium disodium),Family Practice,100.3,72.0,352.0,55,1.0
+J1746,Trogarzo (ibalizumab-uiyk),,97.7,70.0,342.0,55,1.0
+J3420,Cyanocobalamin injection (cyanocobalamin),Internal Medicine,98.1,67.0,714.0,57,1.0
+J1335,Ertapenem (ertapenem sodium),Infectious Disease,135.7,65.0,833.0,57,1.0
+Q9991,Sublocade (buprenorphine),,96.6,70.0,339.0,57,1.0
+J7511,"Thymoglobulin (anti-thymocyte globulin,rabbit)",,96.7,66.0,334.0,55,1.0
+J1944,Aristada (aripiprazole lauroxil),Internal Medicine,93.9,56.0,329.0,56,1.0
+J2794,Risperdal consta (risperidone microspheres),Psychiatry,100.7,69.0,353.0,56,1.0
+J1453,Emend (fosaprepitant dimeglumine),Hematology-Oncology,89.4,65.0,524.0,58,1.0
+J7644,Ipratropium bromide,Family Practice,94.6,65.0,908.0,56,1.0
+J3095,Vibativ (telavancin hcl),Infectious Disease,98.5,70.0,345.0,55,1.0
+J9071,Cyclophosphamide,Hematology-Oncology,124.5,90.0,759.0,57,1.0
+J0598,Cinryze (c1 esterase inhibitor),,98.3,71.0,215.0,54,1.0
+Q4236,Carepatch per sq cm,Internal Medicine,101.0,58.0,860.0,35,1.0
+Q9956,Optison (perflutren protein-a microsphr),Cardiology,98.4,71.0,335.0,57,1.0
+Q4101,"Apligraf (cult skin subst,human-bovine)",,144.0,76.0,714.0,57,1.0
+J1811,Fiasp pumpcart (insulin aspart),,457.4,99.0,863.0,49,1.0
+J0696,Ceftriaxone (ceftriaxone in is-osm dextrose),Nurse Practitioner,113.9,64.0,696.0,59,1.0
+J0565,Zinplava (bezlotoxumab),Infectious Disease,100.0,72.0,350.0,56,1.0
+J8530,Cyclophosphamide,,122.1,56.0,416.0,53,1.0
+J9330,Temsirolimus,,76.3,58.0,349.0,55,1.0
+J7177,Fibryga (fibrinogen),,99.8,72.0,241.0,54,1.0
+J9206,Camptosar (irinotecan hcl),Hematology-Oncology,99.4,54.0,549.0,57,1.0
+J2760,Phentolamine mesylate,Urology,145.7,62.0,511.0,56,0.0
+J0888,Mircera (methoxy peg-epoetin beta),Nurse Practitioner,111.9,81.0,418.0,54,0.0
+J0122,Xerava (eravacycline di-hydrochloride),Infectious Disease,93.4,67.0,327.0,56,0.0
+Q4111,Gammagraft,Podiatry,100.0,73.0,421.0,50,0.0
+J1245,Dipyridamole,Cardiology,100.0,54.0,341.0,50,0.0
+J9314,Pemetrexed,,139.5,55.0,711.0,54,0.0
+Q4118,Matristem micromatrix,Plastic and Reconstructive Surgery,118.3,76.0,446.0,48,0.0
+J1230,Methadone hcl,Internal Medicine,139.3,55.0,475.0,55,0.0
+Q4253,Zenith amniotic membrane psc,Nurse Practitioner,108.5,71.0,811.0,51,0.0
+J2800,Methocarbamol,Family Practice,100.7,58.0,378.0,57,0.0
+J7120,"Lactated ringers (ringer's solution,lactated)",Anesthesiology,104.2,74.0,460.0,56,0.0
+J0558,Bicillin c-r (pen g benz),,100.0,55.0,643.0,57,0.0
+J7631,Cromolyn sodium,Allergy/ Immunology,131.7,55.0,618.0,54,0.0
+Q9961,Conray (iothalamate meglumine),Nephrology,116.1,54.0,893.0,55,0.0
+J2405,Ondansetron hcl,Hematology-Oncology,102.3,80.0,693.0,57,0.0
+J2183,Meropenem,,111.5,71.0,380.0,49,0.0
+J0714,Avycaz (ceftazidime),,95.4,67.0,498.0,56,0.0
+J1630,Haloperidol lactate,,105.9,71.0,580.0,55,0.0
+J2373,Immphentiv (phenylephrine hcl),,112.9,81.0,528.0,48,0.0
+J1652,Arixtra (fondaparinux sodium),,95.1,62.0,865.0,55,0.0
+J0841,"Anavip (antivenin,crotalidae)",,100.0,62.0,350.0,40,0.0
+J2791,Rhophylac (rho immune globulin),,99.4,71.0,418.0,58,0.0
+J0280,Aminophylline,Cardiology,93.3,56.0,318.0,53,0.0
+J1790,Droperidol,,88.7,63.0,301.0,55,0.0
+J0713,Ceftazidime,Infectious Disease,101.9,69.0,541.0,56,0.0
+J9328,Temodar (temozolomide),,99.9,70.0,350.0,55,0.0
+J9394,Fulvestrant,Hematology-Oncology,100.0,54.0,713.0,54,0.0
+J7611,Albuterol sulfate,Pulmonary Disease,112.1,56.0,491.0,57,0.0
+J0577,Brixadi (buprenorphine),,97.6,70.0,342.0,50,0.0
+J3430,Phytonadione,Nurse Practitioner,89.8,54.0,393.0,56,0.0
+J9208,Ifex (ifosfamide),,92.5,65.0,509.0,56,0.0
+J0742,Recarbrio (imipenem),,96.6,64.0,329.0,54,0.0
+J0697,Cefuroxime sodium,Ophthalmology,100.3,71.0,474.0,56,0.0
+J0515,Benztropine mesylate,,102.1,74.0,671.0,56,0.0
+J2305,Nitroglycerin in d5w (nitroglycerin in 5 % dextrose),Cardiology,97.6,53.0,333.0,50,0.0
+J9209,Mesna,,130.3,69.0,920.0,57,0.0
+J9040,Bleomycin sulfate,Dermatology,92.7,58.0,640.0,57,0.0
+Q4222,"Progenamatrix, per sq cm",Dermatology,100.0,53.0,425.0,50,0.0
+J0641,Levoleucovorin calcium,Hematology-Oncology,122.4,112.0,673.0,29,0.0
+J0692,Cefepime hcl,Infectious Disease,82.6,56.0,785.0,55,0.0
+Q4190,Artacent ac 1 sq cm,Nurse Practitioner,103.6,63.0,865.0,49,0.0
+J0688,Cefazolin sodium,Physician Assistant,103.9,76.0,354.0,51,0.0
+J0725,"Chorionic gonadotropin (chorionic gonadotropin, human)",Internal Medicine,102.2,59.0,348.0,54,0.0
+J0873,Daptomycin,Infectious Disease,144.4,133.0,222.0,8,0.0
+J2597,Ddavp (desmopressin acetate),,95.7,69.0,568.0,55,0.0
+J9178,Ellence (epirubicin hcl),,98.8,71.0,560.0,55,0.0
+Q0139,Feraheme (ferumoxytol),,97.3,59.0,811.0,55,0.0
+J1570,Ganciclovir sodium,,108.2,65.0,442.0,56,0.0
+J9060,Cisplatin,Hematology-Oncology,101.9,71.0,562.0,57,0.0
+J1644,"Heparin sodium in 0.45% nacl (heparin sod,pork in 0.45% nacl)",Urology,99.4,55.0,508.0,58,0.0
+J3105,Terbutaline sulfate,Family Practice,94.7,57.0,845.0,55,0.0
+J0740,Cidofovir,,101.3,56.0,343.0,56,0.0
+J0153,Adenosine,Cardiology,134.5,61.0,609.0,57,0.0
+J3465,Vfend iv (voriconazole),,133.2,75.0,638.0,55,0.0
+J1573,Hepagam b (hepatitis b immun glob),,107.0,76.0,372.0,56,0.0
+J7060,Dextrose in water (dextrose 5 % in water),Hematology-Oncology,109.8,61.0,531.0,56,0.0
+J0616,Metoprolol tartrate,,77.4,58.0,413.0,51,0.0
+J2790,Hyperrho (rho immune globulin),,94.6,58.0,337.0,58,0.0
+J2704,Diprivan (propofol in lipid emulsions),Anesthesiology,101.1,67.0,708.0,53,0.0
+J2765,Metoclopramide hcl,Internal Medicine,107.6,54.0,367.0,57,0.0
+J0651,Levothyroxine sodium,,101.5,55.0,356.0,51,0.0
+J1072,Azmiro (testosterone cypionate),,102.6,64.0,360.0,49,0.0
+Q9963,"Gastrografin (diatrizoate meglumine, sodium)",Diagnostic Radiology,102.8,61.0,935.0,55,0.0
+J3010,Fentanyl citrate,Vascular Surgery,85.9,62.0,292.0,54,0.0
+J2679,Fluphenazine hcl,,101.7,73.0,346.0,49,0.0
+J1805,Brevibloc (esmolol hcl),Cardiology,95.7,65.0,424.0,49,0.0
+Q4154,Biovance 1 square cm,Internal Medicine,100.0,59.0,529.0,54,0.0
+Q4195,Puraply 1 sq cm,Plastic and Reconstructive Surgery,100.0,69.0,593.0,52,0.0
+J0895,Deferoxamine mesylate,Hematology-Oncology,85.6,61.0,429.0,55,0.0
+J1954,Leuprolide depot (leuprolide acetate),Hematology-Oncology,102.8,65.0,360.0,54,0.0
+J7402,Sinuva (mometasone furoate),Ambulatory Surgical Center,100.0,72.0,351.0,55,0.0
+Q4201,Matrion 1 sq cm,Podiatry,122.8,75.0,610.0,49,0.0
+J9351,Hycamtin (topotecan hcl),,79.0,54.0,377.0,46,0.0
+J3473,"Hylenex (hyaluronidase, human recomb.)",Physical Medicine and Rehabilitation,98.9,71.0,585.0,56,0.0
+Q4267,Neostim dl per sq cm,Emergency Medicine,100.0,59.0,359.0,40,0.0
+J7354,Ycanth (cantharidin),,95.2,68.0,331.0,51,0.0
+J1943,"Aristada initio (aripiprazole lauroxil,submicr.)",,93.9,58.0,329.0,56,0.0
+J3260,Tobramycin sulfate,Urology,94.7,63.0,396.0,55,0.0
+J0736,Cleocin phosphate (clindamycin phosphate),Family Practice,96.8,53.0,330.0,48,0.0
+J0290,Ampicillin sodium,General Practice,100.2,70.0,875.0,55,0.0
+J1205,Chlorothiazide sodium,Nurse Practitioner,74.7,54.0,864.0,52,0.0
+J2247,Micafungin (micafungin sodium),,100.5,55.0,822.0,55,0.0
+J9360,Vinblastine sulfate,,95.0,53.0,523.0,56,0.0
+J0874,Daptomycin-0.9% nacl (daptomycin in 0.9 % sod chlor),,100.0,100.0,517.0,46,0.0
+J0780,Prochlorperazine edisylate,Hematology-Oncology,96.7,55.0,484.0,58,0.0
+J1580,"Gentamicin sulfate in ns (gentamicin in nacl, iso-osm)",Urology,112.7,66.0,384.0,56,0.0
+J0285,Amphotericin b,Internal Medicine,103.6,74.0,352.0,55,0.0
+J0132,Acetadote (acetylcysteine),Family Practice,100.3,67.0,851.0,55,0.0
+J2248,Micafungin (micafungin sodium),Infectious Disease,138.9,61.0,906.0,55,0.0
+J2300,Nalbuphine hcl,Internal Medicine,80.5,58.0,274.0,54,0.0
+J3243,Tigecycline,Infectious Disease,108.3,60.0,774.0,55,0.0
+J3121,Testosterone enanthate,Internal Medicine,113.2,100.0,321.0,30,0.0
+Q4151,"Amnioband, guardian 1 sq cm",Podiatry,100.0,57.0,517.0,50,0.0
+J1645,"Fragmin (dalteparin sodium,porcine)",,74.9,54.0,200.0,14,0.0
+Q4102,"Wound matrix (porcine submucosa, fenestrated)",Podiatry,107.1,76.0,918.0,54,0.0
+J9268,Nipent (pentostatin),,97.3,68.0,369.0,56,0.0
+J9027,Clofarabine,,88.5,62.0,798.0,50,0.0
+J2545,Nebupent (pentamidine isethionate),Pulmonary Disease,123.3,64.0,438.0,56,0.0
+J0834,Cortrosyn (cosyntropin),Endocrinology,112.3,73.0,636.0,57,0.0
+J9054,Boruzu (bortezomib),,103.6,75.0,363.0,54,0.0
+J2010,Lincocin (lincomycin hcl),Family Practice,127.5,64.0,534.0,56,0.0
+J1571,Hepagam b (hepatitis b immun glob),,106.6,76.0,372.0,56,0.0
+J9297,Pemetrexed disodium,,100.0,53.0,418.0,22,0.0
+J1240,Dimenhydrinate,Pain Management,89.4,56.0,903.0,36,0.0
+J2060,Ativan (lorazepam),Hematology-Oncology,63.7,57.0,209.0,55,0.0
+J9130,Dacarbazine,,119.0,78.0,674.0,58,0.0
+J0461,Atropine sulfate,Hematology-Oncology,89.3,63.0,893.0,55,0.0
+J2430,Pamidronate disodium,Hematology-Oncology,96.8,55.0,590.0,57,0.0
+J7509,Medrol (methylprednisolone),,87.5,56.0,650.0,53,0.0
+J0592,Buprenex (buprenorphine hcl),Orthopedic Surgery,94.1,58.0,321.0,55,0.0
+J0650,Levothyroxine sodium,,123.2,57.0,448.0,49,0.0
+J3480,Potassium chloride-0.45% nacl,Hematology-Oncology,88.2,59.0,735.0,57,0.0
+J2020,Linezolid-d5w (linezolid in dextrose 5%),,120.8,61.0,813.0,56,0.0
+J0166,Epinephrine,,165.9,66.0,503.0,52,0.0
+J9065,Cladribine,,106.0,60.0,904.0,57,0.0
+J2428,Erzofri (paliperidone palmitate),,96.4,69.0,338.0,53,0.0
+J2358,Zyprexa relprevv (olanzapine pamoate),,98.8,63.0,605.0,55,0.0
+J1271,Doxy 100 (doxycycline hyclate),,114.9,73.0,701.0,53,0.0
+J9100,Cytarabine,,98.5,72.0,721.0,55,0.0
+J9076,Cyclophosphamide,,112.1,80.0,393.0,55,0.0
+J9181,Etopophos (etoposide phosphate),Hematology-Oncology,102.2,54.0,581.0,57,0.0
+J0687,Cefazolin sodium,Internal Medicine,139.5,70.0,475.0,49,0.0
+J0165,Adrenalin (epinephrine),,183.8,100.0,558.0,51,0.0
+J1740,Ibandronate sodium,Rheumatology,164.4,53.0,835.0,32,0.0
+J7525,Prograf (tacrolimus),,97.9,59.0,343.0,55,0.0
+J1741,Caldolor (ibuprofen),,97.8,62.0,333.0,54,0.0
+J1626,Granisetron hcl,Hematology-Oncology,80.4,65.0,543.0,55,0.0
+J2805,Kinevac (sincalide),Diagnostic Radiology,99.7,72.0,340.0,57,0.0
+J0131,Acetaminophen,Rheumatology,120.0,120.0,820.0,42,0.0
+J1410,"Premarin (estrogens, conjugated)",,97.6,65.0,342.0,57,0.0
+J2280,Moxifloxacin (moxifloxacin-sod.chloride),Ophthalmology,104.8,73.0,357.0,55,0.0
+J3375,Vancomycin hcl (vancomycin),,98.6,63.0,451.0,51,0.0
+J0893,Decitabine,,101.0,72.0,505.0,53,0.0
+J1430,Ethamolin (ethanolamine oleate),,94.5,54.0,331.0,55,0.0
+J0138,Combogesic iv (ibuprofen sodium),,97.8,65.0,696.0,46,0.0
+J0670,Polocaine-mpf (mepivacaine hcl),Orthopedic Surgery,90.4,65.0,308.0,53,0.0
+J9261,Arranon (nelarabine),,100.4,55.0,511.0,56,0.0
+J0402,Abilify asimtufii (aripiprazole),,97.3,70.0,341.0,51,0.0
+J1000,Depo-estradiol (estradiol cypionate),Obstetrics & Gynecology,96.3,54.0,737.0,57,0.0
+J2290,Nafcillin sodium,,127.7,128.0,596.0,35,0.0
+J3475,Magnesium sulfate-d5w (magnesium sulfate),Hematology-Oncology,96.4,65.0,673.0,55,0.0
+J0737,Clindamycin-0.9% nacl (clindamycin in 0.9 % sod chlor),Ambulatory Surgical Center,107.5,77.0,416.0,50,0.0
+J7614,Albuterol sulfate,Family Practice,106.7,80.0,720.0,55,0.0
+J1650,Enoxaparin sodium,Interventional Cardiology,100.7,71.0,821.0,57,0.0
+J0278,Amikacin sulfate,Urology,102.2,68.0,928.0,56,0.0
+J1455,Foscarnet sodium,,90.2,58.0,945.0,57,0.0
+J7070,Dextrose in water (dextrose 5 % in water),Internal Medicine,107.8,67.0,614.0,56,0.0
+J0295,Ampicillin-sulbactam (ampicillin sod),Infectious Disease,93.0,66.0,882.0,56,0.0
+Q4166,"Cytal, per square centimeter",Dermatology,111.3,60.0,841.0,51,0.0
+J0712,Teflaro (ceftaroline fosamil acetate),,96.6,68.0,338.0,57,0.0
+J2799,Uzedy (risperidone),,96.1,69.0,335.0,51,0.0
+J1162,Digifab (digoxin immune fab),,96.0,69.0,336.0,55,0.0
+Q9958,Cysto-conray ii (iothalamate meglumine),Urology,103.9,78.0,805.0,53,0.0
+J0735,Clonidine hcl,Anesthesiology,116.6,60.0,877.0,57,0.0
+Q4160,Nushield 1 square cm,Podiatry,100.0,59.0,440.0,29,0.0
+J1631,Haldol decanoate 100 (haloperidol decanoate),Psychiatry,80.9,53.0,504.0,55,0.0
+J2270,Morphine sulfate,Home Infusion Therapy Services,57.1,53.0,244.0,31,0.0
+J3360,Diazepam,Family Practice,101.3,70.0,350.0,56,0.0
+Q4257,"Relese, per sq cm",Dermatology,100.0,54.0,239.0,34,0.0
+J2700,Oxacillin sodium,,89.1,55.0,701.0,54,0.0
+J2680,Fluphenazine decanoate,Psychiatry,107.2,65.0,500.0,57,0.0
+J2360,Orphenadrine citrate,Family Practice,90.9,59.0,441.0,57,0.0
+J2690,Procainamide hcl,Orthopedic Surgery,116.6,56.0,409.0,54,0.0
+J0457,Azactam (aztreonam),,100.8,71.0,335.0,50,0.0
+J2401,Chloroprocaine hcl,Orthopedic Surgery,190.5,143.0,333.0,7,0.0
+J1670,Hypertet (tetanus immune globulin),Family Practice,98.9,68.0,347.0,57,0.0
+Q4188,Amnioarmor 1 sq cm,Podiatry,100.0,75.0,834.0,36,0.0
+J9196,Gemcitabine hcl,Hematology-Oncology,100.0,57.0,566.0,56,0.0
+J0699,Fetroja (cefiderocol sulfate tosylate),,95.0,68.0,333.0,56,0.0
+J0883,Argatroban-0.9% nacl (argatroban in 0.9 % sod chlor),,93.8,59.0,554.0,55,0.0
+J0840,"Crofab (antivenin,crotalidae fab)",,96.5,69.0,401.0,56,0.0
+J9049,Bortezomib,Medical Oncology,84.7,58.0,584.0,54,0.0
+J1200,Diphenhydramine hcl,Hematology-Oncology,94.4,68.0,532.0,58,0.0
+J1160,Digoxin,,244.7,93.0,608.0,55,0.0
+J3410,Hydroxyzine hcl,Internal Medicine,92.1,54.0,291.0,55,0.0
+Q9950,Lumason (sulfur hexafluoride microsphr),Cardiology,100.2,72.0,405.0,57,0.0
+J9017,Arsenic trioxide,,145.8,94.0,897.0,56,0.0
+J0872,Daptomycin,Infectious Disease,142.9,143.0,476.0,29,0.0
+J1460,Gamastan (immune globul g),Rheumatology,102.1,56.0,264.0,55,0.0
+J2272,Morphine sulfate,,82.8,58.0,273.0,52,0.0
+J0282,Amiodarone hcl,,102.5,64.0,600.0,55,0.0
+J0694,Cefoxitin sodium,Family Practice,110.6,55.0,596.0,58,0.0
+J0689,Cefazolin sodium-dextrose (cefazolin sodium),Ambulatory Surgical Center,98.4,67.0,336.0,56,0.0
+J0348,Eraxis (anidulafungin),,104.9,76.0,823.0,54,0.0
+J9370,Vincasar pfs (vincristine sulfate),Hematology-Oncology,88.3,58.0,484.0,56,0.0
+J1920,Labetalol hcl,Ambulatory Surgical Center,160.6,57.0,486.0,55,0.0
+J2792,Winrho sdf (rho immune globulin),,95.7,56.0,332.0,55,0.0
+J8610,Methotrexate (methotrexate sodium),,97.4,71.0,649.0,53,0.0
+J0750,Emtricitabine-tenofovir disop (emtricitabine),,295.8,99.0,711.0,50,0.0
+J0695,Zerbaxa (ceftolozane),Family Practice,89.2,59.0,312.0,57,0.0
+J2795,Naropin (ropivacaine hcl),Pain Management,153.8,141.0,436.0,26,0.0
+J3470,Amphadase (hyaluronidase),Ophthalmology,100.1,68.0,407.0,56,0.0
+J7674,Provocholine (methacholine chloride),Pulmonary Disease,97.8,54.0,333.0,52,0.0
+J2175,Demerol (meperidine hcl),Gastroenterology,128.6,64.0,476.0,55,0.0
+J0613,"Calcium gluconate-nacl (calcium gluc in nacl, iso-osm)",Neurology,180.0,120.0,620.0,54,0.0
+J0476,Baclofen,,135.7,69.0,470.0,55,0.0
+J9293,Mitoxantrone hcl,,107.9,64.0,687.0,56,0.0
+J0594,Busulfan,,86.2,62.0,576.0,55,0.0
+J2798,Perseris (risperidone),,99.7,72.0,349.0,56,0.0
+J9342,Tepadina (thiotepa),,179.7,72.0,612.0,53,0.0
+J0500,Bentyl (dicyclomine hcl),Family Practice,133.0,67.0,871.0,57,0.0
+J2250,Midazolam hcl,Anesthesiology,97.9,56.0,734.0,56,0.0
+J9050,Bicnu (carmustine),,100.7,61.0,803.0,54,0.0
+J3090,Sivextro (tedizolid phosphate),,94.2,58.0,330.0,55,0.0
+Q5105,Retacrit (epoetin alfa-epbx),Hematology-Oncology,99.1,69.0,502.0,55,0.0
+J3374,Vancomycin hcl,,103.1,62.0,660.0,51,0.0
+Q4124,"Oasis ultra (porcine acell submucosa,meshed)",Dermatology,100.9,79.0,669.0,52,0.0
+J2312,Naloxone hcl,,101.4,87.0,514.0,49,0.0
+J3000,Streptomycin sulfate,General Practice,126.5,69.0,429.0,56,0.0
+J0744,Cipro i.v. (ciprofloxacin in 5 % dextrose),Urology,116.3,58.0,397.0,50,0.0
+J7521,Prograf (tacrolimus),,101.3,61.0,345.0,48,0.0
+J2720,Protamine sulfate,Vascular Surgery,90.5,54.0,303.0,57,0.0
+J2550,Phenergan (promethazine hcl),Internal Medicine,109.1,55.0,372.0,55,0.0
+J1643,"Heparin sodium (heparin sodium,porcine)",Ambulatory Surgical Center,122.7,58.0,894.0,51,0.0
+J3250,Tigan (trimethobenzamide hcl),General Practice,91.5,66.0,312.0,56,0.0
+J2540,Penicillin g potassium,Dermatology,122.4,57.0,706.0,55,0.0
+J1265,Dopamine hcl in 5% dextrose (dopamine hcl in dextrose 5 %),,79.1,57.0,889.0,51,0.0
+J1450,"Fluconazole-nacl (fluconazole in nacl,iso-osm)",Hematology-Oncology,73.4,55.0,821.0,50,0.0
+J8670,Varubi (rolapitant hcl),,101.3,72.0,849.0,52,0.0
+J0291,Zemdri (plazomicin sulfate),Infectious Disease,99.7,72.0,350.0,55,0.0
+Q4104,Integra bmwd,,127.6,62.0,482.0,51,0.0
+J0287,Abelcet (amphotericin b lipid complex),Family Practice,104.0,73.0,382.0,56,0.0
+J9260,Methotrexate sodium,Rheumatology,91.1,63.0,496.0,55,0.0
+J0690,Cefazolin sodium-dextrose (cefazolin sodium),Infectious Disease,106.8,75.0,754.0,56,0.0
+J1110,Dihydroergotamine mesylate,Podiatry,103.8,62.0,400.0,56,0.0
+J1939,Bumetanide,Nurse Practitioner,74.3,54.0,803.0,50,0.0
+Q0162,Ondansetron hcl,,406.3,375.0,875.0,6,0.0
+J1190,Dexrazoxane (dexrazoxane hcl),,140.0,93.0,794.0,56,0.0
+Q4132,"Grafix core, grafixpl core",Podiatry,103.1,56.0,660.0,52,0.0
+J9246,Evomela (melphalan hcl),,107.7,74.0,465.0,55,0.0
+J0360,Hydralazine hcl,Pain Management,129.3,92.0,785.0,56,0.0
+Q4217,Woundfix biowound plus xplus,Nurse Practitioner,100.0,60.0,532.0,38,0.0
+J0743,Imipenem-cilastatin sodium (imipenem),Infectious Disease,108.9,57.0,545.0,56,0.0
+J1270,Doxercalciferol,,95.4,65.0,431.0,57,0.0
+J0596,"Ruconest (c1 esterase inhibitor, recomb)",,97.2,70.0,210.0,56,0.0
+J0169,Adrenalin (epinephrine),,176.2,74.0,534.0,51,0.0
+J1165,Phenytoin sodium,,110.1,66.0,917.0,54,0.0
+J0578,Brixadi (buprenorphine),,97.6,70.0,342.0,51,0.0
+J7030,Sodium chloride (0.9 % sodium chloride),Hematology-Oncology,94.5,60.0,710.0,58,0.0
+J9120,Cosmegen (dactinomycin),,107.4,61.0,594.0,57,0.0
+J2675,Progesterone,Family Practice,128.8,80.0,694.0,57,0.0
+J2543,Piperacillin-tazobactam (piperacillin sodium),Infectious Disease,89.5,65.0,881.0,57,0.0
+J1598,Glycopyrrolate,,99.9,72.0,410.0,49,0.0
+J3230,Chlorpromazine hcl,,131.0,66.0,446.0,56,0.0
+J3411,Thiamine hcl,Nurse Practitioner,113.4,63.0,639.0,57,0.0
+J0637,Cancidas (caspofungin acetate),,132.7,87.0,584.0,55,0.0
+J7178,Riastap (fibrinogen),,102.8,67.0,241.0,55,0.0
+J2601,Vasopressin-0.9% nacl (vasopressin in 0.9 % nacl),,126.6,83.0,444.0,50,0.0
+J1808,Folic acid,,117.6,100.0,608.0,34,0.0
+J9150,Daunorubicin hcl,Urology,91.4,65.0,750.0,56,0.0
+J9000,Adriamycin (doxorubicin hcl),Hematology-Oncology,104.0,57.0,832.0,57,0.0
+J1596,Glycopyrrolate,Otolaryngology,104.1,63.0,581.0,49,0.0
+J9400,Zaltrap (ziv-aflibercept),,91.2,60.0,404.0,55,0.0
+J1953,Keppra (levetiracetam),Neurology,187.5,188.0,688.0,12,0.0
+J8540,Dexamethasone intensol (dexamethasone),,307.7,231.0,462.0,11,0.0
+J2354,Octreotide acetate,,110.7,79.0,648.0,55,0.0
+J0882,Aranesp (darbepoetin alfa in polysorbat),,105.1,74.0,331.0,56,0.0
+J0133,Acyclovir sodium,Dermatology,342.9,171.0,886.0,23,0.0
+Q4268,Surgraft ft per sq cm,Family Practice,100.9,59.0,856.0,37,0.0
+J0703,Cefepime-dextrose (cefepime hcl in dextrose 5 %),,110.5,68.0,377.0,55,0.0
+J7040,Sodium chloride (0.9 % sodium chloride),Hematology-Oncology,95.6,69.0,773.0,57,0.0
+J1171,Dilaudid (hydromorphone hcl),Anesthesiology,102.9,59.0,735.0,55,0.0
+J2425,Kepivance (palifermin),,94.9,55.0,332.0,56,0.0
+J7050,Sodium chloride (0.9 % sodium chloride),Hematology-Oncology,96.7,55.0,743.0,58,0.0
+J1720,Hydrocortisone sod succinate,Hematology-Oncology,95.7,63.0,542.0,57,0.0
+J1380,Delestrogen (estradiol valerate),Family Practice,96.7,63.0,412.0,57,0.0
+Q4081,Epogen (epoetin alfa),,111.9,80.0,576.0,56,0.0
+J0456,Azithromycin,Family Practice,108.0,56.0,368.0,56,0.0
+J9245,Alkeran (melphalan hcl),,91.4,59.0,502.0,56,0.0
+J2916,Ferrlecit (sodium ferric gluconat),Hematology-Oncology,104.7,60.0,642.0,57,0.0
+J7042,Dextrose 5%-0.9% nacl (dextrose 5 % and 0.9 % nacl),Physician Assistant,107.8,63.0,658.0,56,0.0
+J1956,Levofloxacin-d5w (levofloxacin in dextrose 5 %),Pulmonary Disease,113.1,56.0,415.0,55,0.0
+J2185,Meropenem,Infectious Disease,116.9,55.0,871.0,56,0.0
+Q5100,Yesintek (ustekinumab-kfce),,750.2,79.0,942.0,54,0.0
+J7510,Prednisolone sodium phosphate,,118.4,54.0,683.0,48,0.0
+J7612,Levalbuterol concentrate (levalbuterol hcl),Pulmonary Disease,110.8,61.0,749.0,55,0.0
+J9390,Vinorelbine tartrate,Medical Oncology,126.8,57.0,768.0,57,0.0
+J9323,Pemetrexed disodium,,104.0,80.0,512.0,50,0.0
+J0595,Butorphanol tartrate,Family Practice,59.8,53.0,343.0,44,0.0
+J0136,Acetaminophen,,127.7,128.0,362.0,27,0.0
+Q5120,Ziextenzo (pegfilgrastim-bmez),Hematology-Oncology,90.6,61.0,444.0,49,0.0

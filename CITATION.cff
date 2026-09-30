@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "The Infusion Reimbursement Index, Issue 01 (2026-Q2), open data"
+authors:
+  - name: "CareCost, LLC"
+    website: "https://carecostestimate.com"
+  - family-names: "Rose"
+    given-names: "Erin"
+    affiliation: "CareCost, LLC"
+date-released: 2026-09-29
+version: "2.1"
+license: CC-BY-4.0
+url: "https://carecostestimate.com/infusion-index"
+keywords: [drug reimbursement, price transparency, transparency in coverage, buy and bill, infusion, J-codes, Medicare Part B, ASP]
