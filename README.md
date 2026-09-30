@@ -1,5 +1,7 @@
 # Infusion Reimbursement Index — Issue 01 (2026-Q2), open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23050217.svg)](https://doi.org/10.5281/zenodo.23050217)
+
 What commercial health insurers contract to pay for infused and injected (J-code) drugs, benchmarked to Medicare's payment limit. Built by [CareCost](https://carecostestimate.com) from the Transparency-in-Coverage machine-readable files that insurers must publish. Report: <https://carecostestimate.com/infusion-index>.
 
 **These are contracted rates from insurers' own published files, not amounts paid on claims.**
@@ -36,6 +38,6 @@ Ratios are not affected by the scale: payer grades, p90/p10 spreads, fee-schedul
 
 CC BY 4.0. Cite as:
 
-> CareCost (2026). *The Infusion Reimbursement Index, Issue 01 (2026-Q2), open data* [Data set]. https://carecostestimate.com/infusion-index
+> CareCost (2026). *The Infusion Reimbursement Index, Issue 01 (2026-Q2), open data* (Version 2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23050217
 
 Corrections: corrections@carecostestimate.com. Press and custom pulls: press@carecostestimate.com.
